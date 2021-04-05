@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="31">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"isDead"</Description>
+      <VariableType>Byte</VariableType>
+      <Address>"HotlineMiami2.exe"+00297030</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>3C0</Offset>
+        <Offset>CA0</Offset>
+        <Offset>160</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Score"</Description>
+      <LastState Value="0" RealAddress="1C926B64"/>
+      <VariableType>Double</VariableType>
+      <Address>"HotlineMiami2.exe"+015B99D8</Address>
+      <Offsets>
+        <Offset>D90</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"No description"</Description>
+      <LastState Value="414550824" RealAddress="00BC7030"/>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"HotlineMiami2.exe"+00297030</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"No description"</Description>
+      <LastState Value="18" RealAddress="0FA759C4"/>
+      <VariableType>Byte</VariableType>
+      <Address>0FA759C4</Address>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>7</ID>
+      <Description>"isDead"</Description>
+      <LastState Value="18" RealAddress="0FA759C4"/>
+      <VariableType>Byte</VariableType>
+      <Address>"HotlineMiami2.exe"+015B9890</Address>
+      <Offsets>
+        <Offset>10</Offset>
+        <Offset>0</Offset>
+        <Offset>C</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
